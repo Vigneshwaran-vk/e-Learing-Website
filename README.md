@@ -1,6 +1,38 @@
-Thanks for downloading this theme!
+# E-Learning Platform
 
-## Other Useful Links
+A full-stack E-Learning Platform for managing courses, students, and content with secure login and responsive design.
+
+# Features
+
+- Student registration, login, and personal dashboard
+- Course catalog with enrollment system
+- Course material access (PDFs, videos, etc.)
+- Instructor role for uploading content
+- Admin panel to manage courses and users
+- Role-based access control (RBAC)
+- Responsive design for desktop and mobile
+
+# Tech Stack
+
+# Frontend:
+- HTML5, CSS3, JavaScript
+- Bootstrap / TailwindCSS
+- React.js (optional)
+
+# Backend:
+- Node.js with Express.js
+- JWT or Session-based authentication
+- RESTful APIs
+
+# Database:
+- MongoDB / MySQL / PostgreSQL
+
+# Tools:
+- Git & GitHub
+- Postman (for API testing)
+- XAMPP / MAMP / Docker (for local dev)
+
+# Other Useful Links
 
 **ThemeWagon** is a great source for downloading free HTML templates built with the latest technology.
 
